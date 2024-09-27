@@ -1,0 +1,11 @@
+backgroundwidget.o
+formulario.o
+imagefetcher.o
+main.o
+login.o
+weather.o
+moc_backgroundwidget.o
+moc_formulario.o
+moc_imagefetcher.o
+moc_login.o
+moc_weather.o

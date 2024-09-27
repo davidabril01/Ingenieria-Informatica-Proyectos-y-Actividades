@@ -1,0 +1,1605 @@
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/rollup/dist/bin/rollup
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/workbox-navigation-preload/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@eslint/eslintrc/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/css-prefers-color-scheme/dist/cli.cjs
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/rimraf/bin.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/detect-port-alt/bin/detect-port
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/prompts/readme.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/upath/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint-plugin-jsx-a11y/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/sucrase/bin/sucrase
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/sucrase/bin/sucrase-node
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regjsparser/bin/parser
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regjsparser/node_modules/jsesc/bin/jsesc
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/index.d.mts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-watch-typeahead/node_modules/@types/yargs/helpers.d.mts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/esrecurse/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/damerau-levenshtein/scripts/update-changelog.sh
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regenerate-unicode-properties/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/make-dir/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uuid/dist/bin/uuid
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint/bin/eslint.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/lz-string/bin/bin.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/global-prefix/node_modules/which/bin/which
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/mkdirp/bin/cmd.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/unicode-canonical-property-names-ecmascript/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/helper-create-regexp-features-plugin/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/core/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/preset-env/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/parser/bin/babel-parser.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/eslint-parser/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/helper-compilation-targets/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/helper-create-class-features-plugin/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@babel/plugin-transform-runtime/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/unicode-match-property-ecmascript/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-import/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-import/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/micromatch/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/exit/test/fixtures/create-files.sh
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jake/bin/bash_completion.sh
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jake/bin/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/pluginutils/types/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/pluginutils/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/pluginutils/CHANGELOG.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-node-resolve/types/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-node-resolve/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-node-resolve/CHANGELOG.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-replace/types/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-replace/src/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@rollup/plugin-replace/CHANGELOG.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/deep-equal/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/deep-equal/.eslintrc
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/unicode-match-property-value-ecmascript/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint-plugin-react/lib/rules/jsx-curly-brace-presence.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint-plugin-react/node_modules/resolve/bin/resolve
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint-plugin-react/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-font-variant/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-font-variant/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-font-variant/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-font-variant/CHANGELOG.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/update-browserslist-db/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/open/xdg-open
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/ansi-html-community/bin/ansi-html
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/acorn-globals/node_modules/acorn/bin/acorn
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/typescript/bin/tsserver
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/typescript/bin/tsc
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/resolve/bin/resolve
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/queue-microtask/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/csso/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/tailwindcss/lib/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/unicode-property-aliases-ecmascript/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/sisteransi/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/sisteransi/readme.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/webpack-dev-server/bin/webpack-dev-server.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/ejs/bin/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/ejs/lib/ejs.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/html-minifier-terser/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/workbox-cacheable-response/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/he/bin/he
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/which/bin/node-which
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/escodegen/bin/esgenerate.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/escodegen/bin/escodegen.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/css-has-pseudo/dist/cli.cjs
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/loose-envify/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jsesc/bin/jsesc
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/svgo/bin/svgo
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/svgo/lib/svgo.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/svgo/plugins/minifyStyles.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/svgo/plugins/prefixIds.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-uri.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/ws.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/ws.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/ws.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/http.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/wss.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/https.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/http.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/mailto.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/https.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/wss.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/http.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/mailto.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/https.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/urn.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/schemes/wss.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/util.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/uri.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-uri.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/util.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/index.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/uri.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-iri.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-iri.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-iri.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/uri.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/regexps-uri.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/esnext/util.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.min.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.min.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/dist/es5/uri.all.min.js.map
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/uri-js/yarn.lock
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/json5/lib/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/performance-now/test/scripts/delayed-require.coffee
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/performance-now/test/scripts/delayed-call.coffee
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/performance-now/test/scripts/difference.coffee
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/performance-now/test/scripts/initial-value.coffee
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/terser/bin/terser
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/terser/bin/uglifyjs
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/hpack.js/bin/benchmark
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/react-scripts/bin/react-scripts.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/eslint-plugin-import/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-svgo/node_modules/svgo/bin/svgo
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-svgo/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/workbox-range-requests/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/esprima/bin/esparse.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/esprima/bin/esvalidate.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/webpack/bin/webpack.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/is-docker/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/multicast-dns/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/emojis-list/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/emojis-list/LICENSE.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/didyoumean/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/wrap-ansi/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/import-local/fixtures/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regex-parser/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regex-parser/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regex-parser/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regex-parser/lib/typings/regex-parser.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/regex-parser/lib/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/mime/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/mime/src/build.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/tsconfig-paths/node_modules/json5/lib/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/acorn/bin/acorn
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/istanbul-lib-instrument/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/nanoid/bin/nanoid.cjs
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/axobject-query/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-lib-coverage/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-lib-coverage/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-lib-coverage/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-lib-coverage/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-html.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-espree.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-yaml.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-glimmer.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-typescript.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-graphql.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/standalone.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-babel.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/doc.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-flow.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-postcss.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-markdown.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-meriyah.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prettier/parser-angular.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/server.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/experimental.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/canary.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/client.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/test-utils/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-dom/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/scheduler/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/scheduler/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/scheduler/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/scheduler/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/scheduler/tracing.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/async_hooks.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/module.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/globals.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/diagnostics_channel.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/console.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/child_process.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/trace_events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/dns/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/util.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/wasi.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/readline.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/worker_threads.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/readline/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/path.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/querystring.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/tty.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/os.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/inspector.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/repl.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/https.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/vm.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/dgram.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/buffer.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/dom-events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/net.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/fs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/assert.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/timers/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/tls.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/cluster.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/string_decoder.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/test.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/fs/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/dns.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/process.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/constants.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/http2.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/stream/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/stream/web.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/stream/consumers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/v8.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/domain.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/stream.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/perf_hooks.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/async_hooks.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/module.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/globals.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/diagnostics_channel.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/console.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/child_process.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/trace_events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/dns/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/util.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/wasi.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/readline.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/worker_threads.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/readline/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/path.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/querystring.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/tty.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/os.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/inspector.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/repl.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/https.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/vm.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/dgram.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/buffer.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/dom-events.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/net.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/fs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/assert.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/timers/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/tls.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/cluster.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/string_decoder.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/test.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/fs/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/dns.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/process.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/constants.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/http2.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/stream/promises.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/stream/web.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/stream/consumers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/v8.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/domain.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/stream.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/perf_hooks.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/crypto.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/http.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/punycode.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/assert/strict.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/timers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/url.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/zlib.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/ts4.8/globals.global.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/crypto.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/http.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/punycode.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/assert/strict.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/timers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/url.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/zlib.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/node/globals.global.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__template/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__template/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__template/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__template/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/use-at-your-own-risk.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/best-practices.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/strict-mode.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/deprecated.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/ecmascript-6.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/variables.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/stylistic-issues.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/node-commonjs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/rules/possible-errors.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint/helpers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/range-parser/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/range-parser/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/range-parser/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/range-parser/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/testing-library__jest-dom/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/testing-library__jest-dom/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/testing-library__jest-dom/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/testing-library__jest-dom/matchers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/testing-library__jest-dom/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/q/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/q/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/q/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/q/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/experimental.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/canary.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/global.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/experimental.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/canary.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/global.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/ts5.0/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/qs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/qs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/qs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/qs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/bonjour/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/bonjour/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/bonjour/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/bonjour/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/graceful-fs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/graceful-fs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/graceful-fs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/graceful-fs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/body-parser/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/body-parser/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/body-parser/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/body-parser/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__generator/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__generator/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__generator/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__generator/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/html-minifier-terser/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/html-minifier-terser/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/html-minifier-terser/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/html-minifier-terser/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/ws/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/ws/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/ws/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/ws/index.d.mts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/ws/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/sockjs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/sockjs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/sockjs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/sockjs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/estree/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/estree/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/estree/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/estree/flow.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/estree/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/TransitionGroup.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/CSSTransition.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/Transition.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/SwitchTransition.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/react-transition-group/config.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs-parser/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs-parser/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs-parser/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs-parser/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-reports/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-reports/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-reports/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/istanbul-reports/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/aria-query/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/aria-query/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/aria-query/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/aria-query/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint-scope/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint-scope/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint-scope/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/eslint-scope/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__core/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__core/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__core/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__core/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-static/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-static/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-static/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-static/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prop-types/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prop-types/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prop-types/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/prop-types/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-proxy/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-proxy/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-proxy/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-proxy/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/index.d.mts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/jest/node_modules/@types/yargs/helpers.d.mts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect-history-api-fallback/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect-history-api-fallback/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect-history-api-fallback/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/connect-history-api-fallback/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/classes/comparator.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/classes/range.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/classes/semver.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/preload.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/internals/identifiers.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/rcompare.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/compare-loose.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/prerelease.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/coerce.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/gte.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/satisfies.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/neq.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/lt.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/inc.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/parse.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/compare-build.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/major.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/gt.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/rsort.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/eq.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/clean.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/valid.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/sort.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/compare.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/cmp.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/minor.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/lte.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/diff.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/functions/patch.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/outside.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/intersects.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/to-comparators.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/max-satisfying.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/simplify.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/min-version.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/subset.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/valid.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/ltr.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/gtr.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/semver/ranges/min-satisfying.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/trusted-types/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/trusted-types/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/trusted-types/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/trusted-types/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/trusted-types/lib/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-errors/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-errors/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-errors/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/http-errors/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/json-schema/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/json-schema/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/json-schema/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/json-schema/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/send/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/send/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/send/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/send/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__traverse/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__traverse/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__traverse/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/babel__traverse/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express-serve-static-core/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express-serve-static-core/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express-serve-static-core/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/express-serve-static-core/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/stack-utils/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/stack-utils/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/stack-utils/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/stack-utils/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-index/index.d.ts
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-index/package.json
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-index/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/@types/serve-index/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest-cli/bin/jest.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/css-blank-pseudo/dist/cli.cjs
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jest/bin/jest.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/browserslist/cli.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/cssesc/bin/cssesc
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-calc/LICENSE
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/postcss-calc/README.md
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/jiti/bin/jiti.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/is-potential-custom-element-name/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/autoprefixer/bin/autoprefixer
+../../../conectComputers/Proyectos React/proyect-supermarket/node_modules/fs-monkey/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/rollup/dist/bin/rollup
+../../../conectComputers/Proyectos React/login1/node_modules/rimraf/bin.js
+../../../conectComputers/Proyectos React/login1/node_modules/esrecurse/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/eslint/bin/eslint.js
+../../../conectComputers/Proyectos React/login1/node_modules/@babel/parser/bin/babel-parser.js
+../../../conectComputers/Proyectos React/login1/node_modules/@esbuild/linux-x64/bin/esbuild
+../../../conectComputers/Proyectos React/login1/node_modules/esbuild/bin/esbuild
+../../../conectComputers/Proyectos React/login1/node_modules/vite/bin/vite.js
+../../../conectComputers/Proyectos React/login1/node_modules/eslint-plugin-react/lib/rules/jsx-curly-brace-presence.js
+../../../conectComputers/Proyectos React/login1/node_modules/update-browserslist-db/cli.js
+../../../conectComputers/Proyectos React/login1/node_modules/resolve/bin/resolve
+../../../conectComputers/Proyectos React/login1/node_modules/queue-microtask/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/which/bin/node-which
+../../../conectComputers/Proyectos React/login1/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/login1/node_modules/loose-envify/cli.js
+../../../conectComputers/Proyectos React/login1/node_modules/jsesc/bin/jsesc
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-uri.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/ws.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/ws.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/ws.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/http.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/wss.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/https.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/http.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/mailto.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/https.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/wss.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/http.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/mailto.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/https.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/urn.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/schemes/wss.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/util.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/uri.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-uri.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/util.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/index.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/uri.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-iri.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-iri.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-iri.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/uri.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/index.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/regexps-uri.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/esnext/util.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.min.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.min.js
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/dist/es5/uri.all.min.js.map
+../../../conectComputers/Proyectos React/login1/node_modules/uri-js/yarn.lock
+../../../conectComputers/Proyectos React/login1/node_modules/json5/lib/cli.js
+../../../conectComputers/Proyectos React/login1/node_modules/postcss/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/acorn/bin/acorn
+../../../conectComputers/Proyectos React/login1/node_modules/nanoid/bin/nanoid.cjs
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/server.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/experimental.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/canary.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/client.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/test-utils/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react-dom/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/@types/scheduler/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/scheduler/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/@types/scheduler/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/@types/scheduler/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/@types/scheduler/tracing.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/experimental.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/canary.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/global.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/experimental.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/canary.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/global.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/ts5.0/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/@types/react/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/prop-types/index.d.ts
+../../../conectComputers/Proyectos React/login1/node_modules/@types/prop-types/package.json
+../../../conectComputers/Proyectos React/login1/node_modules/@types/prop-types/LICENSE
+../../../conectComputers/Proyectos React/login1/node_modules/@types/prop-types/README.md
+../../../conectComputers/Proyectos React/login1/node_modules/browserslist/cli.js
+../../../conectComputers/Proyectos React/login1/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/rollup/dist/bin/rollup
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runner/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/workbox-navigation-preload/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@eslint/eslintrc/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/console/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/reporters/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/core/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/test-result/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/environment/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/fake-timers/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/globals/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@jest/transform/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/css-prefers-color-scheme/dist/cli.cjs
+../../../conectComputers/Proyectos React/llogivet/node_modules/rimraf/bin.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/detect-port-alt/bin/detect-port
+../../../conectComputers/Proyectos React/llogivet/node_modules/prompts/readme.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/upath/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint-plugin-jsx-a11y/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/sucrase/bin/sucrase
+../../../conectComputers/Proyectos React/llogivet/node_modules/sucrase/bin/sucrase-node
+../../../conectComputers/Proyectos React/llogivet/node_modules/regjsparser/bin/parser
+../../../conectComputers/Proyectos React/llogivet/node_modules/regjsparser/node_modules/jsesc/bin/jsesc
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watch-typeahead/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/esrecurse/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/damerau-levenshtein/scripts/update-changelog.sh
+../../../conectComputers/Proyectos React/llogivet/node_modules/regenerate-unicode-properties/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/make-dir/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uuid/dist/bin/uuid
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint/bin/eslint.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/lz-string/bin/bin.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/global-prefix/node_modules/which/bin/which
+../../../conectComputers/Proyectos React/llogivet/node_modules/mkdirp/bin/cmd.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/unicode-canonical-property-names-ecmascript/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/babel-jest/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-circus/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/helper-create-regexp-features-plugin/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/core/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/preset-env/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/parser/bin/babel-parser.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/eslint-parser/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/helper-compilation-targets/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/helper-create-class-features-plugin/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@babel/plugin-transform-runtime/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/unicode-match-property-ecmascript/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-import/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-import/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-jasmine2/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/micromatch/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-validate/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/exit/test/fixtures/create-files.sh
+../../../conectComputers/Proyectos React/llogivet/node_modules/jake/bin/bash_completion.sh
+../../../conectComputers/Proyectos React/llogivet/node_modules/jake/bin/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/pluginutils/types/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/pluginutils/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/pluginutils/CHANGELOG.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-node-resolve/types/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-node-resolve/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-node-resolve/CHANGELOG.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-replace/types/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-replace/src/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/@rollup/plugin-replace/CHANGELOG.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/deep-equal/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/deep-equal/.eslintrc
+../../../conectComputers/Proyectos React/llogivet/node_modules/unicode-match-property-value-ecmascript/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint-plugin-react/lib/rules/jsx-curly-brace-presence.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint-plugin-react/node_modules/resolve/bin/resolve
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint-plugin-react/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-font-variant/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-font-variant/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-font-variant/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-font-variant/CHANGELOG.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/update-browserslist-db/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-snapshot/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/open/xdg-open
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-diff/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/ansi-html-community/bin/ansi-html
+../../../conectComputers/Proyectos React/llogivet/node_modules/acorn-globals/node_modules/acorn/bin/acorn
+../../../conectComputers/Proyectos React/llogivet/node_modules/typescript/bin/tsserver
+../../../conectComputers/Proyectos React/llogivet/node_modules/typescript/bin/tsc
+../../../conectComputers/Proyectos React/llogivet/node_modules/resolve/bin/resolve
+../../../conectComputers/Proyectos React/llogivet/node_modules/queue-microtask/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/csso/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/tailwindcss/lib/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/unicode-property-aliases-ecmascript/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/sisteransi/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/sisteransi/readme.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/webpack-dev-server/bin/webpack-dev-server.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/ejs/bin/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/ejs/lib/ejs.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/html-minifier-terser/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/workbox-cacheable-response/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/he/bin/he
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-config/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-message-util/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/which/bin/node-which
+../../../conectComputers/Proyectos React/llogivet/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/escodegen/bin/esgenerate.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/escodegen/bin/escodegen.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/css-has-pseudo/dist/cli.cjs
+../../../conectComputers/Proyectos React/llogivet/node_modules/loose-envify/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jsesc/bin/jsesc
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve-dependencies/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/svgo/bin/svgo
+../../../conectComputers/Proyectos React/llogivet/node_modules/svgo/lib/svgo.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/svgo/plugins/minifyStyles.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/svgo/plugins/prefixIds.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-uri.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/ws.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/ws.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/ws.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/http.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/wss.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/https.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/http.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/mailto.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/https.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/wss.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/http.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/mailto.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/https.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/urn.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/schemes/wss.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/util.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/uri.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-uri.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/util.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/index.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/uri.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-iri.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-iri.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-iri.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/uri.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/regexps-uri.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/esnext/util.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.min.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.min.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/dist/es5/uri.all.min.js.map
+../../../conectComputers/Proyectos React/llogivet/node_modules/uri-js/yarn.lock
+../../../conectComputers/Proyectos React/llogivet/node_modules/json5/lib/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/performance-now/test/scripts/delayed-require.coffee
+../../../conectComputers/Proyectos React/llogivet/node_modules/performance-now/test/scripts/delayed-call.coffee
+../../../conectComputers/Proyectos React/llogivet/node_modules/performance-now/test/scripts/difference.coffee
+../../../conectComputers/Proyectos React/llogivet/node_modules/performance-now/test/scripts/initial-value.coffee
+../../../conectComputers/Proyectos React/llogivet/node_modules/terser/bin/terser
+../../../conectComputers/Proyectos React/llogivet/node_modules/terser/bin/uglifyjs
+../../../conectComputers/Proyectos React/llogivet/node_modules/hpack.js/bin/benchmark
+../../../conectComputers/Proyectos React/llogivet/node_modules/react-scripts/bin/react-scripts.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/eslint-plugin-import/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-svgo/node_modules/svgo/bin/svgo
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-svgo/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/workbox-range-requests/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/esprima/bin/esparse.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/esprima/bin/esvalidate.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/webpack/bin/webpack.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-jsdom/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/is-docker/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/multicast-dns/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/emojis-list/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/emojis-list/LICENSE.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/didyoumean/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/wrap-ansi/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/import-local/fixtures/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/regex-parser/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/regex-parser/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/regex-parser/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/regex-parser/lib/typings/regex-parser.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/regex-parser/lib/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/mime/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/mime/src/build.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-runtime/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/tsconfig-paths/node_modules/json5/lib/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/acorn/bin/acorn
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-mock/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/istanbul-lib-instrument/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-environment-node/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/nanoid/bin/nanoid.cjs
+../../../conectComputers/Proyectos React/llogivet/node_modules/axobject-query/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-lib-coverage/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-lib-coverage/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-lib-coverage/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-lib-coverage/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-html.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-espree.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-yaml.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-glimmer.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-typescript.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-graphql.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/standalone.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-babel.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/doc.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-flow.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-postcss.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-markdown.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-meriyah.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prettier/parser-angular.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/server.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/experimental.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/canary.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/client.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/test-utils/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-dom/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/scheduler/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/scheduler/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/scheduler/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/scheduler/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/scheduler/tracing.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/async_hooks.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/module.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/globals.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/diagnostics_channel.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/console.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/child_process.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/trace_events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/dns/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/util.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/wasi.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/readline.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/worker_threads.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/readline/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/path.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/querystring.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/tty.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/os.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/inspector.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/repl.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/https.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/vm.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/dgram.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/buffer.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/dom-events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/net.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/fs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/assert.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/timers/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/tls.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/cluster.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/string_decoder.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/test.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/fs/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/dns.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/process.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/constants.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/http2.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/stream/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/stream/web.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/stream/consumers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/v8.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/domain.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/stream.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/perf_hooks.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/async_hooks.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/module.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/globals.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/diagnostics_channel.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/console.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/child_process.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/trace_events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/dns/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/util.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/wasi.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/readline.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/worker_threads.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/readline/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/path.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/querystring.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/tty.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/os.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/inspector.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/repl.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/https.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/vm.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/dgram.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/buffer.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/dom-events.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/net.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/fs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/assert.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/timers/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/tls.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/cluster.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/string_decoder.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/test.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/fs/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/dns.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/process.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/constants.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/http2.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/stream/promises.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/stream/web.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/stream/consumers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/v8.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/domain.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/stream.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/perf_hooks.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/crypto.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/http.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/punycode.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/assert/strict.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/timers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/url.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/zlib.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/ts4.8/globals.global.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/crypto.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/http.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/punycode.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/assert/strict.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/timers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/url.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/zlib.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/node/globals.global.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__template/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__template/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__template/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__template/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/use-at-your-own-risk.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/best-practices.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/strict-mode.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/deprecated.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/ecmascript-6.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/variables.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/stylistic-issues.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/node-commonjs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/rules/possible-errors.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/range-parser/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/range-parser/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/range-parser/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/range-parser/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/testing-library__jest-dom/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/testing-library__jest-dom/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/testing-library__jest-dom/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/testing-library__jest-dom/matchers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/testing-library__jest-dom/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/q/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/q/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/q/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/q/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/experimental.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/canary.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/global.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/experimental.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/canary.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/global.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/ts5.0/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/jsx-dev-runtime.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react/jsx-runtime.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/qs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/qs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/qs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/qs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/bonjour/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/bonjour/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/bonjour/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/bonjour/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/graceful-fs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/graceful-fs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/graceful-fs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/graceful-fs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/body-parser/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/body-parser/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/body-parser/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/body-parser/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__generator/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__generator/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__generator/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__generator/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/html-minifier-terser/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/html-minifier-terser/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/html-minifier-terser/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/html-minifier-terser/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/ws/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/ws/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/ws/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/ws/index.d.mts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/ws/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/sockjs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/sockjs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/sockjs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/sockjs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/estree/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/estree/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/estree/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/estree/flow.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/estree/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/TransitionGroup.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/CSSTransition.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/Transition.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/SwitchTransition.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/react-transition-group/config.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs-parser/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs-parser/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs-parser/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs-parser/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/index.d.mts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/yargs/helpers.d.mts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-reports/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-reports/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-reports/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/istanbul-reports/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/aria-query/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/aria-query/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/aria-query/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/aria-query/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint-scope/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint-scope/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint-scope/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/eslint-scope/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__core/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__core/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__core/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__core/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-static/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-static/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-static/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-static/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prop-types/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prop-types/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prop-types/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/prop-types/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-proxy/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-proxy/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-proxy/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-proxy/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/jest/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/jest/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/jest/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/jest/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/jest/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect-history-api-fallback/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect-history-api-fallback/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect-history-api-fallback/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/connect-history-api-fallback/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/classes/comparator.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/classes/range.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/classes/semver.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/preload.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/internals/identifiers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/rcompare.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/compare-loose.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/prerelease.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/coerce.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/gte.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/satisfies.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/neq.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/lt.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/inc.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/parse.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/compare-build.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/major.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/gt.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/rsort.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/eq.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/clean.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/valid.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/sort.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/compare.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/cmp.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/minor.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/lte.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/diff.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/functions/patch.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/outside.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/intersects.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/to-comparators.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/max-satisfying.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/simplify.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/min-version.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/subset.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/valid.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/ltr.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/gtr.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/semver/ranges/min-satisfying.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/trusted-types/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/trusted-types/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/trusted-types/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/trusted-types/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/trusted-types/lib/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-errors/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-errors/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-errors/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/http-errors/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/json-schema/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/json-schema/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/json-schema/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/json-schema/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/send/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/send/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/send/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/send/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__traverse/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__traverse/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__traverse/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/babel__traverse/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express-serve-static-core/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express-serve-static-core/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express-serve-static-core/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/express-serve-static-core/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/stack-utils/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/stack-utils/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/stack-utils/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/stack-utils/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-index/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-index/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-index/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/@types/serve-index/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-changed-files/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/bin/jest.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-cli/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/css-blank-pseudo/dist/cli.cjs
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest/bin/jest.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-haste-map/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/browserslist/cli.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/semver/bin/semver.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-matcher-utils/node_modules/pretty-format/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-each/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/cssesc/bin/cssesc
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-calc/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/postcss-calc/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jiti/bin/jiti.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/is-potential-custom-element-name/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-watcher/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/css-tree/data/index.js
+../../../conectComputers/Proyectos React/llogivet/node_modules/autoprefixer/bin/autoprefixer
+../../../conectComputers/Proyectos React/llogivet/node_modules/fs-monkey/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/package.json
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/LICENSE
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/README.md
+../../../conectComputers/Proyectos React/llogivet/node_modules/jest-resolve/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/proyect-s/node_modules/rollup/dist/bin/rollup
+../../../conectComputers/proyect-s/node_modules/workbox-navigation-preload/package.json
+../../../conectComputers/proyect-s/node_modules/css-prefers-color-scheme/dist/cli.cjs
+../../../conectComputers/proyect-s/node_modules/rimraf/bin.js
+../../../conectComputers/proyect-s/node_modules/detect-port-alt/bin/detect-port
+../../../conectComputers/proyect-s/node_modules/upath/LICENSE
+../../../conectComputers/proyect-s/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/eslint-plugin-jsx-a11y/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/sucrase/bin/sucrase
+../../../conectComputers/proyect-s/node_modules/sucrase/bin/sucrase-node
+../../../conectComputers/proyect-s/node_modules/regjsparser/bin/parser
+../../../conectComputers/proyect-s/node_modules/regjsparser/node_modules/jsesc/bin/jsesc
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/pretty-format/README.md
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/index.d.ts
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/package.json
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/LICENSE
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/index.d.mts
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/yargs.d.ts
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/README.md
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/helpers.d.ts
+../../../conectComputers/proyect-s/node_modules/jest-watch-typeahead/node_modules/@types/yargs/helpers.d.mts
+../../../conectComputers/proyect-s/node_modules/esrecurse/package.json
+../../../conectComputers/proyect-s/node_modules/damerau-levenshtein/scripts/update-changelog.sh
+../../../conectComputers/proyect-s/node_modules/regenerate-unicode-properties/index.js
+../../../conectComputers/proyect-s/node_modules/make-dir/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/uuid/dist/bin/uuid
+../../../conectComputers/proyect-s/node_modules/eslint/bin/eslint.js
+../../../conectComputers/proyect-s/node_modules/eslint/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/proyect-s/node_modules/lz-string/bin/bin.js
+../../../conectComputers/proyect-s/node_modules/global-prefix/node_modules/which/bin/which
+../../../conectComputers/proyect-s/node_modules/mkdirp/bin/cmd.js
+../../../conectComputers/proyect-s/node_modules/unicode-canonical-property-names-ecmascript/index.js
+../../../conectComputers/proyect-s/node_modules/unicode-match-property-ecmascript/index.js
+../../../conectComputers/proyect-s/node_modules/postcss-import/LICENSE
+../../../conectComputers/proyect-s/node_modules/postcss-import/index.js
+../../../conectComputers/proyect-s/node_modules/micromatch/LICENSE
+../../../conectComputers/proyect-s/node_modules/exit/test/fixtures/create-files.sh
+../../../conectComputers/proyect-s/node_modules/jake/bin/bash_completion.sh
+../../../conectComputers/proyect-s/node_modules/jake/bin/cli.js
+../../../conectComputers/proyect-s/node_modules/deep-equal/package.json
+../../../conectComputers/proyect-s/node_modules/deep-equal/.eslintrc
+../../../conectComputers/proyect-s/node_modules/unicode-match-property-value-ecmascript/index.js
+../../../conectComputers/proyect-s/node_modules/eslint-plugin-react/lib/rules/jsx-curly-brace-presence.js
+../../../conectComputers/proyect-s/node_modules/eslint-plugin-react/node_modules/resolve/bin/resolve
+../../../conectComputers/proyect-s/node_modules/eslint-plugin-react/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/postcss-font-variant/LICENSE
+../../../conectComputers/proyect-s/node_modules/postcss-font-variant/index.js
+../../../conectComputers/proyect-s/node_modules/postcss-font-variant/README.md
+../../../conectComputers/proyect-s/node_modules/postcss-font-variant/CHANGELOG.md
+../../../conectComputers/proyect-s/node_modules/update-browserslist-db/cli.js
+../../../conectComputers/proyect-s/node_modules/open/xdg-open
+../../../conectComputers/proyect-s/node_modules/acorn-globals/node_modules/acorn/bin/acorn
+../../../conectComputers/proyect-s/node_modules/typescript/bin/tsserver
+../../../conectComputers/proyect-s/node_modules/typescript/bin/tsc
+../../../conectComputers/proyect-s/node_modules/queue-microtask/LICENSE
+../../../conectComputers/proyect-s/node_modules/csso/node_modules/css-tree/data/index.js
+../../../conectComputers/proyect-s/node_modules/unicode-property-aliases-ecmascript/index.js
+../../../conectComputers/proyect-s/node_modules/sisteransi/package.json
+../../../conectComputers/proyect-s/node_modules/sisteransi/readme.md
+../../../conectComputers/proyect-s/node_modules/webpack-dev-server/bin/webpack-dev-server.js
+../../../conectComputers/proyect-s/node_modules/ejs/bin/cli.js
+../../../conectComputers/proyect-s/node_modules/ejs/lib/ejs.js
+../../../conectComputers/proyect-s/node_modules/html-minifier-terser/cli.js
+../../../conectComputers/proyect-s/node_modules/workbox-cacheable-response/package.json
+../../../conectComputers/proyect-s/node_modules/he/bin/he
+../../../conectComputers/proyect-s/node_modules/which/bin/node-which
+../../../conectComputers/proyect-s/node_modules/js-yaml/bin/js-yaml.js
+../../../conectComputers/proyect-s/node_modules/escodegen/bin/esgenerate.js
+../../../conectComputers/proyect-s/node_modules/escodegen/bin/escodegen.js
+../../../conectComputers/proyect-s/node_modules/css-has-pseudo/dist/cli.cjs
+../../../conectComputers/proyect-s/node_modules/svgo/bin/svgo
+../../../conectComputers/proyect-s/node_modules/svgo/lib/svgo.js
+../../../conectComputers/proyect-s/node_modules/svgo/plugins/minifyStyles.js
+../../../conectComputers/proyect-s/node_modules/svgo/plugins/prefixIds.js
+../../../conectComputers/proyect-s/node_modules/uri-js/package.json
+../../../conectComputers/proyect-s/node_modules/uri-js/LICENSE
+../../../conectComputers/proyect-s/node_modules/uri-js/README.md
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-uri.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/index.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/ws.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/ws.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/ws.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/http.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/wss.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/https.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/http.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/mailto.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/https.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/wss.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/http.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/mailto.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/https.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/urn.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/schemes/wss.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/util.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/uri.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-uri.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/util.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/index.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/uri.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-iri.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-iri.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-iri.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/uri.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/index.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/regexps-uri.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/esnext/util.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.min.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.d.ts
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.min.js
+../../../conectComputers/proyect-s/node_modules/uri-js/dist/es5/uri.all.min.js.map
+../../../conectComputers/proyect-s/node_modules/uri-js/yarn.lock
+../../../conectComputers/proyect-s/node_modules/performance-now/test/scripts/delayed-require.coffee
+../../../conectComputers/proyect-s/node_modules/performance-now/test/scripts/delayed-call.coffee
+../../../conectComputers/proyect-s/node_modules/performance-now/test/scripts/difference.coffee
+../../../conectComputers/proyect-s/node_modules/performance-now/test/scripts/initial-value.coffee
+../../../conectComputers/proyect-s/node_modules/terser/bin/terser
+../../../conectComputers/proyect-s/node_modules/terser/bin/uglifyjs
+../../../conectComputers/proyect-s/node_modules/hpack.js/bin/benchmark
+../../../conectComputers/proyect-s/node_modules/eslint-plugin-import/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/postcss-svgo/node_modules/svgo/bin/svgo
+../../../conectComputers/proyect-s/node_modules/postcss-svgo/node_modules/css-tree/data/index.js
+../../../conectComputers/proyect-s/node_modules/workbox-range-requests/package.json
+../../../conectComputers/proyect-s/node_modules/esprima/bin/esparse.js
+../../../conectComputers/proyect-s/node_modules/esprima/bin/esvalidate.js
+../../../conectComputers/proyect-s/node_modules/webpack/bin/webpack.js
+../../../conectComputers/proyect-s/node_modules/is-docker/cli.js
+../../../conectComputers/proyect-s/node_modules/multicast-dns/cli.js
+../../../conectComputers/proyect-s/node_modules/emojis-list/README.md
+../../../conectComputers/proyect-s/node_modules/emojis-list/LICENSE.md
+../../../conectComputers/proyect-s/node_modules/didyoumean/package.json
+../../../conectComputers/proyect-s/node_modules/wrap-ansi/index.js
+../../../conectComputers/proyect-s/node_modules/import-local/fixtures/cli.js
+../../../conectComputers/proyect-s/node_modules/regex-parser/package.json
+../../../conectComputers/proyect-s/node_modules/regex-parser/LICENSE
+../../../conectComputers/proyect-s/node_modules/regex-parser/README.md
+../../../conectComputers/proyect-s/node_modules/regex-parser/lib/typings/regex-parser.d.ts
+../../../conectComputers/proyect-s/node_modules/regex-parser/lib/index.js
+../../../conectComputers/proyect-s/node_modules/pretty-format/README.md
+../../../conectComputers/proyect-s/node_modules/mime/cli.js
+../../../conectComputers/proyect-s/node_modules/mime/src/build.js
+../../../conectComputers/proyect-s/node_modules/tsconfig-paths/node_modules/json5/lib/cli.js
+../../../conectComputers/proyect-s/node_modules/acorn/bin/acorn
+../../../conectComputers/proyect-s/node_modules/istanbul-lib-instrument/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/nanoid/bin/nanoid.cjs
+../../../conectComputers/proyect-s/node_modules/axobject-query/LICENSE
+../../../conectComputers/proyect-s/node_modules/jest-cli/bin/jest.js
+../../../conectComputers/proyect-s/node_modules/css-blank-pseudo/dist/cli.cjs
+../../../conectComputers/proyect-s/node_modules/semver/bin/semver.js
+../../../conectComputers/proyect-s/node_modules/cssesc/bin/cssesc
+../../../conectComputers/proyect-s/node_modules/postcss-calc/LICENSE
+../../../conectComputers/proyect-s/node_modules/postcss-calc/README.md
+../../../conectComputers/proyect-s/node_modules/jiti/bin/jiti.js
+../../../conectComputers/proyect-s/node_modules/is-potential-custom-element-name/index.js
+../../../conectComputers/proyect-s/node_modules/css-tree/data/index.js
+../../../conectComputers/proyect-s/node_modules/autoprefixer/bin/autoprefixer
+../../../conectComputers/proyect-s/node_modules/fs-monkey/README.md
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/Monticulos/output/ej2
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/Monticulos/output/ej2b
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/Monticulos/output/monticulo
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/Monticulos/output/ej1
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/compresión+/Busqueda/Busqueda/output/Kmp
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/compresión+/Busqueda/Busqueda/output/FB
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/compresión+/Busqueda/output/main busqueda
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/compresión+/encriptación/output/cesar
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/output/ABE2
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/output/ABE
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej3
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej7
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej2
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej6
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej4
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej9
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej1c
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej1b
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej2a
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej1a
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej5
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej8
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej10
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Algoritmos y Estructuras de Datos 2/parcial/output/ej1
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Sistemas Operativos/Ejercicio2.sh
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Sistemas Operativos/Ejercicio5.sh
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Sistemas Operativos/Ejercicio3.sh
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Sistemas Operativos/Ejercicio4.sh
+../../../conectComputers/Ingenieria Informatica Proyectos y Actividades/Sistemas Operativos/Ejercicio1.sh
+../../../conectComputers/.git/hooks/prepare-commit-msg.sample
+../../../conectComputers/.git/hooks/applypatch-msg.sample
+../../../conectComputers/.git/hooks/pre-rebase.sample
+../../../conectComputers/.git/hooks/update.sample
+../../../conectComputers/.git/hooks/pre-push.sample
+../../../conectComputers/.git/hooks/commit-msg.sample
+../../../conectComputers/.git/hooks/pre-receive.sample
+../../../conectComputers/.git/hooks/post-update.sample
+../../../conectComputers/.git/hooks/fsmonitor-watchman.sample
+../../../conectComputers/.git/hooks/push-to-checkout.sample
+../../../conectComputers/.git/hooks/pre-applypatch.sample
+../../../conectComputers/.git/hooks/pre-merge-commit.sample
+../../../conectComputers/.git/hooks/pre-commit.sample
+../../../conectComputers/Probando comunicacion de programas/new comunication/cpp_program
+../../../conectComputers/Probando comunicacion de programas/new comunication/go_program

@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+header{
+    background-color: darkred;
+}
+nav{
+    background-color: beige;
+}
+li{
+    display: inline;
+}
+section{
+    background-color:darkcyan;
+    width: 70%;
+    float: left;
+}
+main{
+    background-color: darkkhaki;
+    float: left;
+    width: 70%;
+}
+article{
+    background-color: darkgrey;
+}
+aside{
+    width: 30%;
+    background-color: darkolivegreen;
+    float: right;
+}
+footer{
+    background-color: darkorange;
+    text-align: center;
+    clear: both;
+}

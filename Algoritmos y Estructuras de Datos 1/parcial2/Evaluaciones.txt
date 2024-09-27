@@ -1,0 +1,4 @@
+x 150 15 Medicion Incorrecta +5
+x 250 50 Medicion Correcta
+z 300 60 Medicion Incorrecta +5
+z 250 36 Medicion Incorrecta +14

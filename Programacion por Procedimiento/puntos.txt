@@ -1,0 +1,4 @@
+Detalle Puntos
+Centro 20
+Medio 10
+Errado 1

@@ -1,0 +1,1217 @@
+/etc/php/8.1/apache2/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/8.1/cli/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/8.2/apache2/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/8.2/cli/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/7.4/apache2/php.ini:; http://php.net/configuration.file
+/etc/php/7.4/apache2/php.ini:; http://php.net/ini.sections
+/etc/php/7.4/apache2/php.ini:; http://php.net/engine
+/etc/php/7.4/apache2/php.ini:; http://php.net/short-open-tag
+/etc/php/7.4/apache2/php.ini:; http://php.net/precision
+/etc/php/7.4/apache2/php.ini:; http://php.net/output-buffering
+/etc/php/7.4/apache2/php.ini:; http://php.net/output-handler
+/etc/php/7.4/apache2/php.ini:; http://php.net/zlib.output-compression
+/etc/php/7.4/apache2/php.ini:; http://php.net/zlib.output-compression-level
+/etc/php/7.4/apache2/php.ini:; http://php.net/zlib.output-handler
+/etc/php/7.4/apache2/php.ini:; http://php.net/implicit-flush
+/etc/php/7.4/apache2/php.ini:; http://php.net/open-basedir
+/etc/php/7.4/apache2/php.ini:; http://php.net/disable-functions
+/etc/php/7.4/apache2/php.ini:; http://php.net/disable-classes
+/etc/php/7.4/apache2/php.ini:; http://php.net/syntax-highlighting
+/etc/php/7.4/apache2/php.ini:; http://php.net/ignore-user-abort
+/etc/php/7.4/apache2/php.ini:; http://php.net/realpath-cache-size
+/etc/php/7.4/apache2/php.ini:; http://php.net/realpath-cache-ttl
+/etc/php/7.4/apache2/php.ini:; http://php.net/zend.enable-gc
+/etc/php/7.4/apache2/php.ini:; http://php.net/expose-php
+/etc/php/7.4/apache2/php.ini:; http://php.net/max-execution-time
+/etc/php/7.4/apache2/php.ini:; http://php.net/max-input-time
+/etc/php/7.4/apache2/php.ini:; http://php.net/max-input-nesting-level
+/etc/php/7.4/apache2/php.ini:; http://php.net/memory-limit
+/etc/php/7.4/apache2/php.ini:; http://php.net/error-reporting
+/etc/php/7.4/apache2/php.ini:; http://php.net/display-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/display-startup-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/log-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/log-errors-max-len
+/etc/php/7.4/apache2/php.ini:; http://php.net/ignore-repeated-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/ignore-repeated-source
+/etc/php/7.4/apache2/php.ini:; http://php.net/report-memleaks
+/etc/php/7.4/apache2/php.ini:; http://php.net/track-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/xmlrpc-errors
+/etc/php/7.4/apache2/php.ini:; http://php.net/html-errors
+/etc/php/7.4/apache2/php.ini:; You can download a copy of the PHP manual from http://php.net/docs
+/etc/php/7.4/apache2/php.ini:; http://php.net/docref-root
+/etc/php/7.4/apache2/php.ini:; http://php.net/docref-ext
+/etc/php/7.4/apache2/php.ini:; http://php.net/error-prepend-string
+/etc/php/7.4/apache2/php.ini:; http://php.net/error-append-string
+/etc/php/7.4/apache2/php.ini:; http://php.net/error-log
+/etc/php/7.4/apache2/php.ini:; http://php.net/syslog.filter
+/etc/php/7.4/apache2/php.ini:; http://php.net/arg-separator.output
+/etc/php/7.4/apache2/php.ini:; http://php.net/arg-separator.input
+/etc/php/7.4/apache2/php.ini:; http://php.net/variables-order
+/etc/php/7.4/apache2/php.ini:; http://php.net/request-order
+/etc/php/7.4/apache2/php.ini:; http://php.net/register-argc-argv
+/etc/php/7.4/apache2/php.ini:; http://php.net/auto-globals-jit
+/etc/php/7.4/apache2/php.ini:; http://php.net/enable-post-data-reading
+/etc/php/7.4/apache2/php.ini:; http://php.net/post-max-size
+/etc/php/7.4/apache2/php.ini:; http://php.net/auto-prepend-file
+/etc/php/7.4/apache2/php.ini:; http://php.net/auto-append-file
+/etc/php/7.4/apache2/php.ini:; http://php.net/default-mimetype
+/etc/php/7.4/apache2/php.ini:; http://php.net/default-charset
+/etc/php/7.4/apache2/php.ini:; http://php.net/internal-encoding
+/etc/php/7.4/apache2/php.ini:; http://php.net/input-encoding
+/etc/php/7.4/apache2/php.ini:; http://php.net/output-encoding
+/etc/php/7.4/apache2/php.ini:; http://php.net/include-path
+/etc/php/7.4/apache2/php.ini:; http://php.net/doc-root
+/etc/php/7.4/apache2/php.ini:; http://php.net/user-dir
+/etc/php/7.4/apache2/php.ini:; http://php.net/extension-dir
+/etc/php/7.4/apache2/php.ini:; http://php.net/enable-dl
+/etc/php/7.4/apache2/php.ini:; http://php.net/cgi.force-redirect
+/etc/php/7.4/apache2/php.ini:; http://php.net/cgi.redirect-status-env
+/etc/php/7.4/apache2/php.ini:; http://php.net/cgi.fix-pathinfo
+/etc/php/7.4/apache2/php.ini:; http://php.net/fastcgi.impersonate
+/etc/php/7.4/apache2/php.ini:; http://php.net/cgi.rfc2616-headers
+/etc/php/7.4/apache2/php.ini:; http://php.net/cgi.check-shebang-line
+/etc/php/7.4/apache2/php.ini:; http://php.net/file-uploads
+/etc/php/7.4/apache2/php.ini:; http://php.net/upload-tmp-dir
+/etc/php/7.4/apache2/php.ini:; http://php.net/upload-max-filesize
+/etc/php/7.4/apache2/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/7.4/apache2/php.ini:; http://php.net/allow-url-fopen
+/etc/php/7.4/apache2/php.ini:; Whether to allow include/require to open URLs (like http:// or ftp://) as files.
+/etc/php/7.4/apache2/php.ini:; http://php.net/allow-url-include
+/etc/php/7.4/apache2/php.ini:; http://php.net/from
+/etc/php/7.4/apache2/php.ini:; http://php.net/user-agent
+/etc/php/7.4/apache2/php.ini:; http://php.net/default-socket-timeout
+/etc/php/7.4/apache2/php.ini:; http://php.net/auto-detect-line-endings
+/etc/php/7.4/apache2/php.ini:; See http://www.php.net/manual/en/snmp.installation.php
+/etc/php/7.4/apache2/php.ini:; http://php.net/date.timezone
+/etc/php/7.4/apache2/php.ini:; http://php.net/date.default-latitude
+/etc/php/7.4/apache2/php.ini:; http://php.net/date.default-longitude
+/etc/php/7.4/apache2/php.ini:; http://php.net/date.sunrise-zenith
+/etc/php/7.4/apache2/php.ini:; http://php.net/date.sunset-zenith
+/etc/php/7.4/apache2/php.ini:; http://php.net/filter.default
+/etc/php/7.4/apache2/php.ini:; http://php.net/filter.default-flags
+/etc/php/7.4/apache2/php.ini:; http://php.net/sqlite3.extension-dir
+/etc/php/7.4/apache2/php.ini:; http://php.net/pcre.backtrack-limit
+/etc/php/7.4/apache2/php.ini:; http://php.net/pcre.recursion-limit
+/etc/php/7.4/apache2/php.ini:; http://php.net/pdo-odbc.connection-pooling
+/etc/php/7.4/apache2/php.ini:; http://php.net/phar.readonly
+/etc/php/7.4/apache2/php.ini:; http://php.net/phar.require-hash
+/etc/php/7.4/apache2/php.ini:; http://php.net/smtp
+/etc/php/7.4/apache2/php.ini:; http://php.net/smtp-port
+/etc/php/7.4/apache2/php.ini:; http://php.net/sendmail-from
+/etc/php/7.4/apache2/php.ini:; http://php.net/sendmail-path
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.default-db
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.default-user
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.default-pw
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.allow-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.check-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.max-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.max-links
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.defaultlrl
+/etc/php/7.4/apache2/php.ini:; http://php.net/odbc.defaultbinmode
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.max-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.allow_local_infile
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.allow-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.max-links
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.default-port
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.default-socket
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.default-host
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.default-user
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqli.default-pw
+/etc/php/7.4/apache2/php.ini:; http://php.net/mysqlnd.debug
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.privileged-connect
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.max-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.persistent-timeout
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.ping-interval
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.statement-cache-size
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.default-prefetch
+/etc/php/7.4/apache2/php.ini:; http://php.net/oci8.old-oci-close-semantics
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.allow-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.auto-reset-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.max-persistent
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.max-links
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.ignore-notice
+/etc/php/7.4/apache2/php.ini:; http://php.net/pgsql.log-notice
+/etc/php/7.4/apache2/php.ini:; http://php.net/bcmath.scale
+/etc/php/7.4/apache2/php.ini:; http://php.net/browscap
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.save-handler
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.save-path
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.use-cookies
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cookie-secure
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.use-only-cookies
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.name
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.auto-start
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cookie-lifetime
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cookie-path
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cookie-domain
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cookie-httponly
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.serialize-handler
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.gc-probability
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.gc-divisor
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.gc-maxlifetime
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.referer-check
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cache-limiter
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.cache-expire
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.use-trans-sid
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.sid-length
+/etc/php/7.4/apache2/php.ini:; http://php.net/url-rewriter.tags
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.hash-bits-per-character
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.enabled
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.cleanup
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.prefix
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.name
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.freq
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.upload-progress.min-freq
+/etc/php/7.4/apache2/php.ini:; http://php.net/session.lazy-write
+/etc/php/7.4/apache2/php.ini:; http://php.net/zend.assertions
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.active
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.exception
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.warning
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.bail
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.callback
+/etc/php/7.4/apache2/php.ini:; http://php.net/assert.quiet-eval
+/etc/php/7.4/apache2/php.ini:; http://php.net/com.typelib-file
+/etc/php/7.4/apache2/php.ini:; http://php.net/com.allow-dcom
+/etc/php/7.4/apache2/php.ini:; http://php.net/com.autoregister-typelib
+/etc/php/7.4/apache2/php.ini:; http://php.net/com.autoregister-casesensitive
+/etc/php/7.4/apache2/php.ini:; http://php.net/com.autoregister-verbose
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.language
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.http-input
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.http-output
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.encoding-translation
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.detect-order
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.substitute-character
+/etc/php/7.4/apache2/php.ini:; http://php.net/mbstring.func-overload
+/etc/php/7.4/apache2/php.ini:; http://php.net/gd.jpeg-ignore-warning
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.encode-unicode
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.decode-unicode-motorola
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.decode-unicode-intel
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.encode-jis
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.decode-jis-motorola
+/etc/php/7.4/apache2/php.ini:; http://php.net/exif.decode-jis-intel
+/etc/php/7.4/apache2/php.ini:; http://php.net/tidy.default-config
+/etc/php/7.4/apache2/php.ini:; http://php.net/tidy.clean-output
+/etc/php/7.4/apache2/php.ini:; http://php.net/soap.wsdl-cache-enabled
+/etc/php/7.4/apache2/php.ini:; http://php.net/soap.wsdl-cache-dir
+/etc/php/7.4/apache2/php.ini:; http://php.net/soap.wsdl-cache-ttl
+/etc/php/7.4/apache2/php.ini:; http://php.net/opcache.preload
+/etc/php/7.4/apache2/php.ini:; http://php.net/opcache.preload_user
+/etc/php/7.4/cli/php.ini:; http://php.net/configuration.file
+/etc/php/7.4/cli/php.ini:; http://php.net/ini.sections
+/etc/php/7.4/cli/php.ini:; http://php.net/engine
+/etc/php/7.4/cli/php.ini:; http://php.net/short-open-tag
+/etc/php/7.4/cli/php.ini:; http://php.net/precision
+/etc/php/7.4/cli/php.ini:; http://php.net/output-buffering
+/etc/php/7.4/cli/php.ini:; http://php.net/output-handler
+/etc/php/7.4/cli/php.ini:; http://php.net/zlib.output-compression
+/etc/php/7.4/cli/php.ini:; http://php.net/zlib.output-compression-level
+/etc/php/7.4/cli/php.ini:; http://php.net/zlib.output-handler
+/etc/php/7.4/cli/php.ini:; http://php.net/implicit-flush
+/etc/php/7.4/cli/php.ini:; http://php.net/open-basedir
+/etc/php/7.4/cli/php.ini:; http://php.net/disable-functions
+/etc/php/7.4/cli/php.ini:; http://php.net/disable-classes
+/etc/php/7.4/cli/php.ini:; http://php.net/syntax-highlighting
+/etc/php/7.4/cli/php.ini:; http://php.net/ignore-user-abort
+/etc/php/7.4/cli/php.ini:; http://php.net/realpath-cache-size
+/etc/php/7.4/cli/php.ini:; http://php.net/realpath-cache-ttl
+/etc/php/7.4/cli/php.ini:; http://php.net/zend.enable-gc
+/etc/php/7.4/cli/php.ini:; http://php.net/expose-php
+/etc/php/7.4/cli/php.ini:; http://php.net/max-execution-time
+/etc/php/7.4/cli/php.ini:; http://php.net/max-input-time
+/etc/php/7.4/cli/php.ini:; http://php.net/max-input-nesting-level
+/etc/php/7.4/cli/php.ini:; http://php.net/memory-limit
+/etc/php/7.4/cli/php.ini:; http://php.net/error-reporting
+/etc/php/7.4/cli/php.ini:; http://php.net/display-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/display-startup-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/log-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/log-errors-max-len
+/etc/php/7.4/cli/php.ini:; http://php.net/ignore-repeated-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/ignore-repeated-source
+/etc/php/7.4/cli/php.ini:; http://php.net/report-memleaks
+/etc/php/7.4/cli/php.ini:; http://php.net/track-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/xmlrpc-errors
+/etc/php/7.4/cli/php.ini:; http://php.net/html-errors
+/etc/php/7.4/cli/php.ini:; You can download a copy of the PHP manual from http://php.net/docs
+/etc/php/7.4/cli/php.ini:; http://php.net/docref-root
+/etc/php/7.4/cli/php.ini:; http://php.net/docref-ext
+/etc/php/7.4/cli/php.ini:; http://php.net/error-prepend-string
+/etc/php/7.4/cli/php.ini:; http://php.net/error-append-string
+/etc/php/7.4/cli/php.ini:; http://php.net/error-log
+/etc/php/7.4/cli/php.ini:; http://php.net/syslog.filter
+/etc/php/7.4/cli/php.ini:; http://php.net/arg-separator.output
+/etc/php/7.4/cli/php.ini:; http://php.net/arg-separator.input
+/etc/php/7.4/cli/php.ini:; http://php.net/variables-order
+/etc/php/7.4/cli/php.ini:; http://php.net/request-order
+/etc/php/7.4/cli/php.ini:; http://php.net/register-argc-argv
+/etc/php/7.4/cli/php.ini:; http://php.net/auto-globals-jit
+/etc/php/7.4/cli/php.ini:; http://php.net/enable-post-data-reading
+/etc/php/7.4/cli/php.ini:; http://php.net/post-max-size
+/etc/php/7.4/cli/php.ini:; http://php.net/auto-prepend-file
+/etc/php/7.4/cli/php.ini:; http://php.net/auto-append-file
+/etc/php/7.4/cli/php.ini:; http://php.net/default-mimetype
+/etc/php/7.4/cli/php.ini:; http://php.net/default-charset
+/etc/php/7.4/cli/php.ini:; http://php.net/internal-encoding
+/etc/php/7.4/cli/php.ini:; http://php.net/input-encoding
+/etc/php/7.4/cli/php.ini:; http://php.net/output-encoding
+/etc/php/7.4/cli/php.ini:; http://php.net/include-path
+/etc/php/7.4/cli/php.ini:; http://php.net/doc-root
+/etc/php/7.4/cli/php.ini:; http://php.net/user-dir
+/etc/php/7.4/cli/php.ini:; http://php.net/extension-dir
+/etc/php/7.4/cli/php.ini:; http://php.net/enable-dl
+/etc/php/7.4/cli/php.ini:; http://php.net/cgi.force-redirect
+/etc/php/7.4/cli/php.ini:; http://php.net/cgi.redirect-status-env
+/etc/php/7.4/cli/php.ini:; http://php.net/cgi.fix-pathinfo
+/etc/php/7.4/cli/php.ini:; http://php.net/fastcgi.impersonate
+/etc/php/7.4/cli/php.ini:; http://php.net/cgi.rfc2616-headers
+/etc/php/7.4/cli/php.ini:; http://php.net/cgi.check-shebang-line
+/etc/php/7.4/cli/php.ini:; http://php.net/file-uploads
+/etc/php/7.4/cli/php.ini:; http://php.net/upload-tmp-dir
+/etc/php/7.4/cli/php.ini:; http://php.net/upload-max-filesize
+/etc/php/7.4/cli/php.ini:; Whether to allow the treatment of URLs (like http:// or ftp://) as files.
+/etc/php/7.4/cli/php.ini:; http://php.net/allow-url-fopen
+/etc/php/7.4/cli/php.ini:; Whether to allow include/require to open URLs (like http:// or ftp://) as files.
+/etc/php/7.4/cli/php.ini:; http://php.net/allow-url-include
+/etc/php/7.4/cli/php.ini:; http://php.net/from
+/etc/php/7.4/cli/php.ini:; http://php.net/user-agent
+/etc/php/7.4/cli/php.ini:; http://php.net/default-socket-timeout
+/etc/php/7.4/cli/php.ini:; http://php.net/auto-detect-line-endings
+/etc/php/7.4/cli/php.ini:; See http://www.php.net/manual/en/snmp.installation.php
+/etc/php/7.4/cli/php.ini:; http://php.net/date.timezone
+/etc/php/7.4/cli/php.ini:; http://php.net/date.default-latitude
+/etc/php/7.4/cli/php.ini:; http://php.net/date.default-longitude
+/etc/php/7.4/cli/php.ini:; http://php.net/date.sunrise-zenith
+/etc/php/7.4/cli/php.ini:; http://php.net/date.sunset-zenith
+/etc/php/7.4/cli/php.ini:; http://php.net/filter.default
+/etc/php/7.4/cli/php.ini:; http://php.net/filter.default-flags
+/etc/php/7.4/cli/php.ini:; http://php.net/sqlite3.extension-dir
+/etc/php/7.4/cli/php.ini:; http://php.net/pcre.backtrack-limit
+/etc/php/7.4/cli/php.ini:; http://php.net/pcre.recursion-limit
+/etc/php/7.4/cli/php.ini:; http://php.net/pdo-odbc.connection-pooling
+/etc/php/7.4/cli/php.ini:; http://php.net/phar.readonly
+/etc/php/7.4/cli/php.ini:; http://php.net/phar.require-hash
+/etc/php/7.4/cli/php.ini:; http://php.net/smtp
+/etc/php/7.4/cli/php.ini:; http://php.net/smtp-port
+/etc/php/7.4/cli/php.ini:; http://php.net/sendmail-from
+/etc/php/7.4/cli/php.ini:; http://php.net/sendmail-path
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.default-db
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.default-user
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.default-pw
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.allow-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.check-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.max-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.max-links
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.defaultlrl
+/etc/php/7.4/cli/php.ini:; http://php.net/odbc.defaultbinmode
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.max-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.allow_local_infile
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.allow-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.max-links
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.default-port
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.default-socket
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.default-host
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.default-user
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqli.default-pw
+/etc/php/7.4/cli/php.ini:; http://php.net/mysqlnd.debug
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.privileged-connect
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.max-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.persistent-timeout
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.ping-interval
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.statement-cache-size
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.default-prefetch
+/etc/php/7.4/cli/php.ini:; http://php.net/oci8.old-oci-close-semantics
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.allow-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.auto-reset-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.max-persistent
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.max-links
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.ignore-notice
+/etc/php/7.4/cli/php.ini:; http://php.net/pgsql.log-notice
+/etc/php/7.4/cli/php.ini:; http://php.net/bcmath.scale
+/etc/php/7.4/cli/php.ini:; http://php.net/browscap
+/etc/php/7.4/cli/php.ini:; http://php.net/session.save-handler
+/etc/php/7.4/cli/php.ini:; http://php.net/session.save-path
+/etc/php/7.4/cli/php.ini:; http://php.net/session.use-cookies
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cookie-secure
+/etc/php/7.4/cli/php.ini:; http://php.net/session.use-only-cookies
+/etc/php/7.4/cli/php.ini:; http://php.net/session.name
+/etc/php/7.4/cli/php.ini:; http://php.net/session.auto-start
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cookie-lifetime
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cookie-path
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cookie-domain
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cookie-httponly
+/etc/php/7.4/cli/php.ini:; http://php.net/session.serialize-handler
+/etc/php/7.4/cli/php.ini:; http://php.net/session.gc-probability
+/etc/php/7.4/cli/php.ini:; http://php.net/session.gc-divisor
+/etc/php/7.4/cli/php.ini:; http://php.net/session.gc-maxlifetime
+/etc/php/7.4/cli/php.ini:; http://php.net/session.referer-check
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cache-limiter
+/etc/php/7.4/cli/php.ini:; http://php.net/session.cache-expire
+/etc/php/7.4/cli/php.ini:; http://php.net/session.use-trans-sid
+/etc/php/7.4/cli/php.ini:; http://php.net/session.sid-length
+/etc/php/7.4/cli/php.ini:; http://php.net/url-rewriter.tags
+/etc/php/7.4/cli/php.ini:; http://php.net/session.hash-bits-per-character
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.enabled
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.cleanup
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.prefix
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.name
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.freq
+/etc/php/7.4/cli/php.ini:; http://php.net/session.upload-progress.min-freq
+/etc/php/7.4/cli/php.ini:; http://php.net/session.lazy-write
+/etc/php/7.4/cli/php.ini:; http://php.net/zend.assertions
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.active
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.exception
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.warning
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.bail
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.callback
+/etc/php/7.4/cli/php.ini:; http://php.net/assert.quiet-eval
+/etc/php/7.4/cli/php.ini:; http://php.net/com.typelib-file
+/etc/php/7.4/cli/php.ini:; http://php.net/com.allow-dcom
+/etc/php/7.4/cli/php.ini:; http://php.net/com.autoregister-typelib
+/etc/php/7.4/cli/php.ini:; http://php.net/com.autoregister-casesensitive
+/etc/php/7.4/cli/php.ini:; http://php.net/com.autoregister-verbose
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.language
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.http-input
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.http-output
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.encoding-translation
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.detect-order
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.substitute-character
+/etc/php/7.4/cli/php.ini:; http://php.net/mbstring.func-overload
+/etc/php/7.4/cli/php.ini:; http://php.net/gd.jpeg-ignore-warning
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.encode-unicode
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.decode-unicode-motorola
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.decode-unicode-intel
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.encode-jis
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.decode-jis-motorola
+/etc/php/7.4/cli/php.ini:; http://php.net/exif.decode-jis-intel
+/etc/php/7.4/cli/php.ini:; http://php.net/tidy.default-config
+/etc/php/7.4/cli/php.ini:; http://php.net/tidy.clean-output
+/etc/php/7.4/cli/php.ini:; http://php.net/soap.wsdl-cache-enabled
+/etc/php/7.4/cli/php.ini:; http://php.net/soap.wsdl-cache-dir
+/etc/php/7.4/cli/php.ini:; http://php.net/soap.wsdl-cache-ttl
+/etc/php/7.4/cli/php.ini:; http://php.net/opcache.preload
+/etc/php/7.4/cli/php.ini:; http://php.net/opcache.preload_user
+/etc/sysctl.conf:# See http://lwn.net/Articles/277146/
+/etc/dbus-1/system.d/org.freedesktop.thermald.conf:        "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.ubuntu.USBCreator.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.opensuse.CupsPkHelper.Mechanism.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.ubuntu.WhoopsiePreferences.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.debian.apt.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/net.hadess.SwitcherooControl.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.freedesktop.PackageKit.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/bluetooth.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.ubuntu.LanguageSelector.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/wpa_supplicant.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/gdm.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.redhat.PrinterDriversInstaller.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/net.hadess.PowerProfiles.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/avahi-dbus.conf:          "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/net.hadess.SensorProxy.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.redhat.NewPrinterNotification.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/pulseaudio-system.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/pulseaudio-system.conf:License along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/dbus-1/system.d/com.hp.hplip.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/com.ubuntu.SoftwareProperties.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/kerneloops.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/dnsmasq.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.freedesktop.ModemManager1.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/dbus-1/system.d/org.freedesktop.DisplayManager.conf: "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+/etc/udisks2/mount_options.conf.example:# Refer to http://storaged.org/doc/udisks2-api/latest/mount_options.html
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://docbook.org/xml/" catalog="file:///etc/xml/docbook-xml.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://globaltranscorp.org/oasis/catalog/xml/tr9401.dtd" catalog="file:///etc/xml/xml-core.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd" catalog="file:///etc/xml/xml-core.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/" catalog="file:///etc/xml/docbook-xml.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://www.w3.org/Graphics/SVG/1.1/" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://www.w3.org/TR/2001/REC-SVG-20010904/" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/xml/catalog:<delegateSystem systemIdStartString="http://xml.ascc.net/xml/resource/qaml-xml" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/xml/sgml-data.xml.old:<delegateSystem systemIdStartString="http://www.w3.org/Graphics/SVG/1.1/" catalog="file:///usr/share/xml/svg/catalog.xml"/>
+/etc/xml/sgml-data.xml.old:<delegateSystem systemIdStartString="http://www.w3.org/TR/2001/REC-SVG-20010904/" catalog="file:///usr/share/xml/svg/catalog.xml"/>
+/etc/xml/sgml-data.xml.old:<delegateSystem systemIdStartString="http://xml.ascc.net/xml/resource/qaml-xml" catalog="file:///usr/share/xml/qaml/catalog.xml"/>
+/etc/xml/xml-core.xml.old:<delegateSystem systemIdStartString="http://globaltranscorp.org/oasis/catalog/xml/tr9401.dtd" catalog="file:///usr/share/xml/schema/xml-core/catalog.xml"/>
+/etc/xml/xml-core.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd" catalog="file:///usr/share/xml/schema/xml-core/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.1.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.1.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.1/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.3/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.3/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.4/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.4/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://docbook.org/xml/4.5/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.5/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.0/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.1.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.1/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.3/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.4/catalog.xml"/>
+/etc/xml/docbook-xml.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.5/catalog.xml"/>
+/etc/xml/sgml-data.xml:<delegateSystem systemIdStartString="http://www.w3.org/Graphics/SVG/1.1/" catalog="file:///usr/share/xml/svg/catalog.xml"/>
+/etc/xml/sgml-data.xml:<delegateSystem systemIdStartString="http://www.w3.org/TR/2001/REC-SVG-20010904/" catalog="file:///usr/share/xml/svg/catalog.xml"/>
+/etc/xml/sgml-data.xml:<delegateSystem systemIdStartString="http://xml.ascc.net/xml/resource/qaml-xml" catalog="file:///usr/share/xml/qaml/catalog.xml"/>
+/etc/xml/xml-core.xml:<delegateSystem systemIdStartString="http://globaltranscorp.org/oasis/catalog/xml/tr9401.dtd" catalog="file:///usr/share/xml/schema/xml-core/catalog.xml"/>
+/etc/xml/xml-core.xml:<delegateSystem systemIdStartString="http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd" catalog="file:///usr/share/xml/schema/xml-core/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.1.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.1.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.1/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.3/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.3/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.4/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.4/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://docbook.org/xml/4.5/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.5/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.0/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.1.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.1/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.2/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.3/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.4/catalog.xml"/>
+/etc/xml/docbook-xml.xml.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" catalog="file:///usr/share/xml/docbook/schema/dtd/4.5/catalog.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://docbook.org/xml/" catalog="file:///etc/xml/docbook-xml.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://globaltranscorp.org/oasis/catalog/xml/tr9401.dtd" catalog="file:///etc/xml/xml-core.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd" catalog="file:///etc/xml/xml-core.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://www.oasis-open.org/docbook/xml/" catalog="file:///etc/xml/docbook-xml.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://www.w3.org/Graphics/SVG/1.1/" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://www.w3.org/TR/2001/REC-SVG-20010904/" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/xml/catalog.old:<delegateSystem systemIdStartString="http://xml.ascc.net/xml/resource/qaml-xml" catalog="file:///etc/xml/sgml-data.xml"/>
+/etc/dpkg/origins/ubuntu:Vendor-URL: http://www.ubuntu.com/
+/etc/ethertypes:#	http://standards-oui.ieee.org/ethertype/eth.txt
+/etc/speech-dispatcher/modules/mary-generic.conf:"curl \"http://localhost:59125/process?INPUT_TEXT=`printf %s \'$DATA\'| xxd -plain | tr -d '\\n' | sed 's/\\\(..\\\)/%\\\1/g'`&INPUT_TYPE=TEXT&OUTPUT_TYPE=AUDIO&AUDIO=WAVE_FILE&LOCALE=$LANGUAGE&VOICE=$VOICE\" | sox -v $VOLUME $TMPDIR/mary-generic.wav tempo $RATE pitch $PITCH norm && $PLAY_COMMAND $TMPDIR/mary-generic.wav"
+/etc/pulse/daemon.conf:# along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/pulse/client.conf:# along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/pulse/system.pa:# along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/pulse/default.pa:# along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/ImageMagick-6/thresholds.xml:       http://www.efg2.com/Lab/Library/ImageProcessing/DHALF.TXT
+/etc/ImageMagick-6/thresholds.xml:  http://www.fho-emden.de/~hoffmann/hilb010101.pdf
+/etc/PackageKit/Vendor.conf:# default=http://www.packagekit.org/pk-package-not-found.html
+/etc/PackageKit/Vendor.conf:CodecUrl=http://shop.canonical.com/index.php?cPath=19&osCsid=f1e370ea7563ed5e654c10450364ff24
+/etc/wgetrc:#https_proxy = http://proxy.yoyodyne.com:18023/
+/etc/wgetrc:#http_proxy = http://proxy.yoyodyne.com:18023/
+/etc/wgetrc:#ftp_proxy = http://proxy.yoyodyne.com:18023/
+/etc/protocols:# Updated from http://www.iana.org/assignments/protocol-numbers and other
+/etc/gdm3/config-error-dialog.sh:# See http://www.gnu.org/copyleft/gpl.html the full text of the license.
+/etc/thunderbird/syspref.js://pref("browser.startup.homepage", "http://www.weebls-stuff.com/wab/");
+/etc/ssl/openssl.cnf:# proxy = # set this as far as needed, e.g., http://192.168.1.1:8080
+/etc/ppp/options.pptp:# packaged, it requires PPP 2.4.2 or later from http://ppp.samba.org/
+/etc/ppp/options.pptp:# http://ppp.samba.org/, which is packaged for DKMS as kernel_ppp_mppe.
+/etc/ppp/options.pptp:# http://marc.info/?l=pptpclient-devel&m=134372640219039&w=2
+/etc/ppp/options.pptp:# http://technet.microsoft.com/en-us/security/advisory/2743314
+/etc/ppp/options.pptp:# http://ppp.samba.org/ the PPP project version of PPP by Paul Mackarras
+/etc/ppp/options.pptp:# http://mppe-mppc.alphacron.de/ fork from PPP project by Jan Dubiec
+/etc/apparmor.d/usr.lib.libreoffice.program.senddoc:#    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+/etc/apparmor.d/usr.lib.libreoffice.program.xpdfimport:#    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+/etc/apparmor.d/usr.bin.evince:  # from http://live.gnome.org/Evince/SupportedDocumentFormats. Allow
+/etc/apparmor.d/usr.bin.evince:  # from http://live.gnome.org/Evince/SupportedDocumentFormats. Allow
+/etc/apparmor.d/abstractions/evince:  # from http://live.gnome.org/Evince/SupportedDocumentFormats. Allow
+/etc/apparmor.d/abstractions/xdg-desktop:  # http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
+/etc/apparmor.d/usr.lib.libreoffice.program.soffice.bin:#    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+/etc/apparmor.d/usr.lib.libreoffice.program.oosplash:#    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+/etc/sane.d/escl.conf:#device http://123.456.789.10:8080 OptionalModel1
+/etc/sane.d/escl.conf:#device unix:/run/proxy.sock:http://123.456.789.10:80
+/etc/sane.d/gt68xx.conf:# http://www.meier-geinitz.de/sane/gt68xx-backend/adding.html
+/etc/sane.d/airscan.conf:#"Kyocera MFP Scanner" = http://192.168.1.102:9095/eSCL
+/etc/init.d/kerneloops:#                    signatures to the http://oops.kernel.org website for use by the Linux
+/etc/init.d/cups:#                    make it's web interface accessible on http://localhost:631/
+/etc/grub.d/10_linux:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/30_os-prober:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/30_uefi-firmware:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/05_debian_theme:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/10_linux_zfs:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/00_header:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/grub.d/20_linux_xen:# along with GRUB.  If not, see <http://www.gnu.org/licenses/>.
+/etc/apt/sources.list:# See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy main restricted
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy main restricted
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy-updates main restricted
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy-updates main restricted
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy universe
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy universe
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy-updates universe
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy-updates universe
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy multiverse
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy multiverse
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy-updates multiverse
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy-updates multiverse
+/etc/apt/sources.list:deb http://ar.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+/etc/apt/sources.list:# deb-src http://ar.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu jammy-security main restricted
+/etc/apt/sources.list:# deb-src http://security.ubuntu.com/ubuntu jammy-security main restricted
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu jammy-security universe
+/etc/apt/sources.list:# deb-src http://security.ubuntu.com/ubuntu jammy-security universe
+/etc/apt/sources.list:deb http://security.ubuntu.com/ubuntu jammy-security multiverse
+/etc/apt/sources.list:# deb-src http://security.ubuntu.com/ubuntu jammy-security multiverse
+/etc/appstream.conf:ScreenshotUrl=http://screenshots.debian.net
+/etc/appstream.conf:ScreenshotUrl=http://software.opensuse.org/package
+/etc/appstream.conf:ScreenshotUrl=http://screenshots.ubuntu.com
+/etc/apache2/conf-available/localized-error-pages.conf:#ErrorDocument 402 http://www.example.com/subscription_info.html
+/etc/apache2/mods-available/status.conf:	# with the URL of http://servername/server-status
+/etc/apache2/mods-available/mime.conf:	# See http://www.iana.org/assignments/character-sets for the
+/etc/apache2/mods-available/info.conf:	#  http://servername/server-info (requires that mod_info.c be loaded).
+/etc/apache2/mods-available/proxy_html.conf:# <URL:http://httpd.apache.org/docs/2.4/mod/mod_proxy_html.html>
+/etc/apache2/mods-available/proxy_html.conf:# <URL:http://httpd.apache.org/docs/2.4/mod/mod_xml2enc.html>
+/etc/apache2/mods-available/proxy_html.conf:# http://some.app.intranet/ on a private network, after loading the
+/etc/apache2/mods-available/proxy_html.conf:# ProxyPass /my-gateway/ http://some.app.intranet/
+/etc/apache2/mods-available/proxy_html.conf:#	ProxyHTMLURLMap http://some.app.intranet/ /my-gateway/
+/etc/apache2/mods-available/proxy_html.conf:# http://apache.webthing.com/mod_proxy_html/
+/etc/apache2/mods-available/proxy_html.conf:# http://www.apachetutor.org/admin/reverseproxies
+/etc/apache2/magic:# mime types according to http://www.geocities.com/nevilo/mod.htm:
+/etc/apache2/magic:# MNG Video Format, <URL:http://www.libpng.org/pub/mng/spec/>
+/etc/apache2/magic:# specifications at http://hdf.ncsa.uiuc.edu/
+/etc/apache2/magic:# see http://lists.gnupg.org/pipermail/gnupg-devel/1999-September/016052.html
+/etc/apache2/magic:#       http://www.macromedia.com/software/flash/open/
+/etc/apache2/magic:# <http://www.namazu.org/>
+/etc/apache2/magic:# http://www.djvuzone.org/
+/etc/apache2/magic:# this is from source (http://www.adrift.org.uk/) and I have some taf
+/etc/apache2/apache2.conf:# See http://httpd.apache.org/docs/2.4/ for detailed information about
+/etc/apache2/apache2.conf:# at <URL:http://httpd.apache.org/docs/2.4/mod/core.html#mutex>);
+/etc/network/if-up.d/avahi-autoipd:#                   See http://developer.apple.com/qa/qa2004/qa1357.html for
+/etc/network/if-down.d/avahi-autoipd:#                   See http://developer.apple.com/qa/qa2004/qa1357.html for
+/etc/brltty.conf:# Web Page: http://BRLTTY.app/
+/etc/libreoffice/registry/lingucomponent.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/lingucomponent.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Linguistic" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/lingucomponent.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Linguistic" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/lingucomponent.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Linguistic" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/calc.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="CalcCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="CalcWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/calc.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/Langpack-en-US.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/pdfimport.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/pdfimport.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.TypeDetection" oor:name="Types">
+/etc/libreoffice/registry/writer.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterFormWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterGlobalWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterReportWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterWebWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="WriterWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="XFormsWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/writer.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/xsltfilter.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/gnome.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/gnome.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Configuration" oor:package="org.openoffice.ucb">
+/etc/libreoffice/registry/math.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/math.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="MathCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/math.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="MathWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/math.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/math.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/math.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/pyuno.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/pyuno.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Scripting" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/graphicfilter.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/res/fcfg_langpack_en-US.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/res/fcfg_langpack_en-US.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.TypeDetection" oor:name="Filter">
+/etc/libreoffice/registry/draw.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/draw.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DrawWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/draw.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/draw.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/draw.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/main.xcd:          <value>http://vm195.documentfoundation.org/</value>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Inet" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Interaction" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Accelerators" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="BasicIDE" oor:package="org.openoffice.Office"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Calc" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Canvas" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host:port&gt;/alfresco/cmisatom</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/p8cmis/wsdl</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/servlet/cmis/repository/_P&lt;Quickr place name&gt;_RMain.nsf/servicedoc</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/nuxeo/webservices/cmis/RepositoryService?wsdl</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://ec2-184-72-233-127.compute-1.amazonaws.com/ot-cmis/services/RepositoryService?wsdl</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/_vti_bin/CMISSoapwsdl.aspx</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/_api/Web</it>
+/etc/libreoffice/registry/main.xcd:          <it>http://&lt;host&gt;/</it>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Compatibility" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DataAccess" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:          <value>&lt;d:dependencies xmlns:d="http://openoffice.org/extensions/description/2006"&gt;&lt;d:OpenOffice.org-maximal-version d:name="OpenOffice.org 3.2" value="3.2"/&gt;&lt;/d:dependencies&gt;</value>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ExtensionManager" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="FormWizard" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Histories" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Impress" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Jobs" oor:package="org.openoffice.Office"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Logging" oor:package="org.openoffice.Office"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Math" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Paths" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ProtocolHandler" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Scripting" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Security" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="TableWizard" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="BaseWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="BasicIDECommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="BasicIDEWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="BibliographyCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ChartCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ChartWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Controller" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbBrowserWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbQueryWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbRelationWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbTableDataWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbTableWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DbuCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="DrawImpressCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Factories" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="GenericCategories" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="GenericCommands" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Sidebar" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="StartModuleWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ToolbarMode" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UI" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Views" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Writer" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UserProfile" oor:package="org.openoffice"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="VCL" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Configuration" oor:package="org.openoffice.ucb">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UISort" oor:package="org.openoffice.TypeDetection">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Inet" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Accelerators" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office"/>
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Paths" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Paths" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="UserProfile" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="VCL" oor:package="org.openoffice">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Configuration" oor:package="org.openoffice.ucb">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Paths" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Paths" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/main.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess">
+/etc/libreoffice/registry/impress.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="PresentationMinimizer">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="PresenterScreen">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Effects" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ImpressWindowState" oor:package="org.openoffice.Office.UI">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Common" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:package="org.openoffice.Office" oor:name="Embedding">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Jobs" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="ProtocolHandler" oor:package="org.openoffice.Office">
+/etc/libreoffice/registry/impress.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Setup" oor:package="org.openoffice">
+/etc/libreoffice/registry/ogltrans.xcd:<oor:data xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oor="http://openoffice.org/2001/registry">
+/etc/libreoffice/registry/ogltrans.xcd:  <oor:component-data xmlns:install="http://openoffice.org/2004/installation" oor:name="Impress" oor:package="org.openoffice.Office">
+/etc/libreoffice/psprint.conf:; file, You can obtain one at http://mozilla.org/MPL/2.0/.
+/etc/libreoffice/psprint.conf:;   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+/etc/brltty/Attributes/upper_lower.atb:# Web Page: http://brltty.app/
+/etc/brltty/Attributes/invleft_right.atb:# Web Page: http://brltty.app/
+/etc/brltty/Attributes/left_right.atb:# Web Page: http://brltty.app/
+/etc/brltty/Input/cb/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mm/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/mm/pocket.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mm/smart.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/chords.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/np/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bg/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/speech.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb_small.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav_large.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/routing.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav20.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb_large.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav_small.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb65.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/nav40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ts/pb80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/kbd.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/fkeys.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/fk_s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/fk.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/default.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/keyboard.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/md/status.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/vo/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/vo/all.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/vo/bp.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/esys_small.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/sw56.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/routing.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/joysticks.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/esys_medium.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/iris.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/braille.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/sw12.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/clio.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/esys_large.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/esytime.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/eu/sw34.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/menu.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/alo.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bs80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/me.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/ac4.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/joystick.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bkwm.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/cb40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/me64.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/wave.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bs.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/input.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/as40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/keypad.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/ab_s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/dots.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/mc88.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/mdlr.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/easy.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bs40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bb.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/brln.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/me88.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/ab.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/bbp.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/rockers.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ht/ab.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bp/all.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_3.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_6s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd2.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_6.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_6.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_3.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/bd1_3s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/mt/status.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/cn/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc640.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/voyager.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/el.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/abt_extra.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/abt_basic.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_large.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc-thumb.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_nav.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc-smartpad.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc680.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_speech.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc-etouch.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/bc.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_tumblers.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/abt_small.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/abt_large.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/al/sat_small.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/BI20X.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/routing.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/joystick.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/B80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/thumb.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/BI32.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/braille.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/touch.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/BI14.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/BI40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/C20.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/M40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/command.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/NLS.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/BI40X.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hw/one.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bn/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bn/input.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fa/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/chords.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/nvda.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/route.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/bb.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ic/toggle.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/at/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ce/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ce/novem.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pg/all.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/speech.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/focus14.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/pacmate.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/bumpers.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/focus80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/focus1.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/keyboard.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/focus.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/rockers.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/fs/focus40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/android-chords.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/sk/bdp.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/sk/ntk.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hd/mbl.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hd/pfl.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status22.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el_2d_80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/front9.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status20.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el40c.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status0.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/routing.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el_2d_66.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/elba_20.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el80_ii.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el_2d_40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el40s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/elba_32.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el70s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el60c.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el80c.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/front13.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el2d_80s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/trio.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status2.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status13.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/ib_80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/bar.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/switches.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/c.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/status4.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/keyboard.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el80s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/live.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el_40_p.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/elb_tr_20.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el66s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/2d_s.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/el_80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/elb_tr_32.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/c_486.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/2d_l.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/pm/keys.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/contexts.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/right.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/scroll.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/letters.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/f18.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/left.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/edge.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/pan.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/common.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/braille.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/qwerty.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/f14.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/fnkey.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/sync.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/scroll.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/pan.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/qwerty.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/hm/beetle.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ir/brl.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/ir/all.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/ir/pc.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/inka.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/v80.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/ultra.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/routing.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/display6.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/joystick.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/vertical.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/pro.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/orbit.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/NLS_Zoomax.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/sv.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/vk.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/horizontal.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/pv.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/front10.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/b9b11b10.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/dm80p.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/display7.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/d6.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/navpad.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/routing7.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/default.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/v40.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/keyboard.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/pronto.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/front6.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/rb.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/conny.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/wheels.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/command.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/b9b10.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/routing6.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/status.kti:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/connect.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/bm/b2g.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Input/toggle.kti:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/kp_speak.kti:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/braille.kti:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/braille.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/kp_say.kti:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/desktop.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/laptop.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/desktop.kti:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/keypad.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Keyboard/sun_type6.ktb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ko-g1.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/letters-latin.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de-2015.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/zh_TW.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/nl.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/nl.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/none.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ru.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/pt.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/pt.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/es.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/es.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/si.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/si.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/ny.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ny.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/de-g1.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/af.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/af.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/en_US.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/am.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/am.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/mun.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/mun.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/ha.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ha.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/zh-tw.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de-g2.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/nabcc.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/mg.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/mg.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/ipa.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/id.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/id.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/latex-access.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/latex-access.ctb:      BRLTTY can be found at [http://brltty.app/].
+/etc/brltty/Contraction/latex-access.ctb:      latex-access can be found at [http://www.latex-access.sourceforge.net/].
+/etc/brltty/Contraction/sw.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/sw.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/en-us-g2.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ja.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/lt.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de-1998.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/fr-g1.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/fr-g1.ctb:# Référence: http://www.inlb.qc.ca/apropos/c2003unificationdubraille.aspx
+/etc/brltty/Contraction/countries.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de-wort.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ko.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/th.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/th.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/spaces.cti:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/fr.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de-g0.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/fr-g2.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/ko-g2.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/zu.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/zu.ctb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Contraction/en-ueb-g2.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/en-ueb-g2.ctb:# http://www.brailleauthority.org/ueb/symbols_list.pdf
+/etc/brltty/Contraction/en-ueb-g2.ctb:# http://www.brailleauthority.org/ueb/Guidelines_for_Technical_Material_2008-10.pdf
+/etc/brltty/Contraction/ko-g0.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/en.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/zh-tw.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Contraction/de.ctb:# Web Page: http://brltty.app/
+/etc/brltty/Text/oriya.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/or.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/fi.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sv.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/brf.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ltr-cyrillic.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/cy.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/en_GB.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/eo.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/et.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/et.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/ltr-dot8.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/gd.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/gd.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/num-french.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/kha.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/lt.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/de-chess.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/de-chess.tti:# See: http://en.wikipedia.org/wiki/Chess_symbols_in_Unicode
+/etc/brltty/Text/blocks.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/hy.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/hy.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/sw.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sw.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/bra.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ltr-alias.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/da-1252.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr-cbifs.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/awa.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/devanagari.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/malayalam.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/punc-basic.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/telugu.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/gon.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/no-generic.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/en-nabcc.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/num-alias.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/num-nemeth.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/nl_NL.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ta.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/no.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/en_US.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ascii-basic.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/num-dot6.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/cs.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr_FR.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mi.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mi.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/num-nemd8.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/win-1252.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr_CA.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/se.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/new.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/punc-alternate.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/sa.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/vi.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/pt.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mwr.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/nl_BE.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/nl.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/dra.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/hi.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sl.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sl.ttb:# libbraille http://libbraille.org and gnome-braille
+/etc/brltty/Text/sl.ttb:# http://cvs.gnome.org/viewcvs/gnome-braille/
+/etc/brltty/Text/sl.ttb:# http://www.savez-slijepih.hr/en/download.htm
+/etc/brltty/Text/da.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/bh.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/en_CA.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/greek.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/ar.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/boxes.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/num-dot8.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/tamil.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/bn.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr-2007.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr-2007.ttb:# http://www.avh.asso.fr/rubriques/infos_braille/table_braille_informatique.php
+/etc/brltty/Text/kru.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/gurmukhi.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/it.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/kannada.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/lv.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/gujarati.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/fr-vs.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/common.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/pl.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/is.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ro.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ro.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/sat.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/pi.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sd.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/no-oup.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/gu.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/tr.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/tr.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/kn.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sv-1989.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/punc-tibetan.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/hr.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/hr.ttb:# libbraille http://libbraille.org and gnome-braille
+/etc/brltty/Text/hr.ttb:# http://cvs.gnome.org/viewcvs/gnome-braille/
+/etc/brltty/Text/hr.ttb:# http://www.savez-slijepih.hr/en/download.htm
+/etc/brltty/Text/en.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ru.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mni.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/nwc.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/bo.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/bengali.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/mt.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mt.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/uk.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sv-1996.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/he.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/pa.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/es.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ga.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ga.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/ltr-tibetan.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/en-na-ascii.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/as.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mun.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ml.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/de.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/en-chess.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/en-chess.tti:# See: http://en.wikipedia.org/wiki/Chess_symbols_in_Unicode
+/etc/brltty/Text/mr.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ltr-latin.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/te.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/alias.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/el.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/ctl-latin.tti:# Web Page: http://brltty.app/
+/etc/brltty/Text/hu.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/hu.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/ne.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/bg.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/bg.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/mg.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/mg.ttb:# MACKENZIE: http://unesdoc.unesco.org/images/0013/001352/135251fo.pdf
+/etc/brltty/Text/fr.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/da-lt.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/kok.ttb:# Web Page: http://brltty.app/
+/etc/brltty/Text/sk.ttb:# Web Page: http://brltty.app/
+/etc/fonts/conf.avail/11-lcdfilter-default.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/11-lcdfilter-light.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/69-unifont.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-unhinted.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/45-generic.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/40-nonlatin.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/60-latin.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/90-synthetic.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-sub-pixel-vrgb.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/25-unhint-nonlatin.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-scale-bitmap-fonts.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-sub-pixel-rgb.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-hinting-none.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-hinting-slight.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-sub-pixel-bgr.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/70-force-bitmaps.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-no-sub-pixel.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/11-lcdfilter-legacy.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/65-khmer.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/51-local.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/70-no-bitmaps.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/30-metric-aliases.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/65-fonts-persian.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/80-delicious.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/50-user.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/60-generic.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-sub-pixel-vbgr.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/20-unhint-small-vera.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/49-sansserif.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-hinting-medium.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-autohint.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/65-nonlatin.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/45-latin.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/conf.avail/10-hinting-full.conf:  <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/fonts/fonts.conf:	<its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
+/etc/security/capability.conf:#   http://www.kernel.org/pub/linux/libs/security/linux-privs/
+/etc/kerneloops.conf:submit-url = http://oops.kernel.org/submitoops.php
+/etc/cracklib/cracklib.conf:#   1. http://www.pathname.com/fhs/2.0/fhs-toc.html
+/etc/cracklib/cracklib.conf:#   2. http://www.pathname.com/fhs/1.2/fsstnd-toc.html
+/etc/apport/crashdb.conf:        'bug_pattern_url': 'http://people.canonical.com/~ubuntu-archive/bugpatterns/bugpatterns.xml',
+/etc/apport/crashdb.conf:        'dupdb_url': 'http://people.canonical.com/~ubuntu-archive/apport-duplicates',
+/etc/apport/crashdb.conf:        'bug_pattern_url': 'http://people.canonical.com/~ubuntu-archive/bugpatterns/bugpatterns.xml',
+/etc/xdg/Xwayland-session.d/00-pulseaudio-x11:# along with PulseAudio; if not, see <http://www.gnu.org/licenses/>.
+/etc/xdg/menus/gnome-applications.menu: "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+/etc/chatscripts/gprs:# (http://www.3gpp.org/ftp/Specs/html-info/27007.htm)

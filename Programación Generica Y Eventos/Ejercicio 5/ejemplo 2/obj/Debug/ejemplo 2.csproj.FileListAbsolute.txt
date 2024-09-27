@@ -1,0 +1,15 @@
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\bin\Debug\ejemplo 2.exe.config
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\bin\Debug\ejemplo 2.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\bin\Debug\ejemplo 2.pdb
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\obj\Debug\ejemplo 2.csproj.AssemblyReference.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\obj\Debug\ejemplo 2.csproj.SuggestedBindingRedirects.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\obj\Debug\ejemplo 2.csproj.CoreCompileInputs.cache
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\obj\Debug\ejemplo 2.exe
+D:\2023\AGOSTO\UBP\PGE\SEMANA 3\EJEMPLOS\ejemplo 2\obj\Debug\ejemplo 2.pdb
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\bin\Debug\ejemplo 2.exe.config
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\bin\Debug\ejemplo 2.exe
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\bin\Debug\ejemplo 2.pdb
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\obj\Debug\ejemplo 2.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\obj\Debug\ejemplo 2.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\obj\Debug\ejemplo 2.exe
+C:\Users\David\OneDrive - UNIVERSIDAD BLAS PASCAL\Escritorio\Proyects\Proyects\Ingenieria Informatica Proyectos y Actividades\Programación Generica Y Eventos\ejemplo 2\obj\Debug\ejemplo 2.pdb

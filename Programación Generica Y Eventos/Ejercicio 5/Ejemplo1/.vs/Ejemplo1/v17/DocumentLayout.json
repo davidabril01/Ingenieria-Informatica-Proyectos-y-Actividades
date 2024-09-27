@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\OneDrive - UNIVERSIDAD BLAS PASCAL\\Escritorio\\Proyects\\Proyects\\Ingenieria Informatica Proyectos y Actividades\\Programaci\u00F3n Generica Y Eventos\\Ejercicio 5\\Ejemplo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8068797-B7EA-4467-B0DF-2ACCC0F1A211}|Ejemplo1.csproj|c:\\users\\david\\onedrive - universidad blas pascal\\escritorio\\proyects\\proyects\\ingenieria informatica proyectos y actividades\\programaci\u00F3n generica y eventos\\ejercicio 5\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8068797-B7EA-4467-B0DF-2ACCC0F1A211}|Ejemplo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\OneDrive - UNIVERSIDAD BLAS PASCAL\\Escritorio\\Proyects\\Proyects\\Ingenieria Informatica Proyectos y Actividades\\Programaci\u00F3n Generica Y Eventos\\Ejercicio 5\\Ejemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\David\\OneDrive - UNIVERSIDAD BLAS PASCAL\\Escritorio\\Proyects\\Proyects\\Ingenieria Informatica Proyectos y Actividades\\Programaci\u00F3n Generica Y Eventos\\Ejercicio 5\\Ejemplo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:28:59.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Se tiene la siguiente cadena de caracteres:
+
+AAAAZERAAAAMDMDKSAAAADODODODAAAALLLOMOAOOOOAPPOAAAOP
+
+Realizar un programa que permita realizar la bùsqueda de una cadena de caracteres (Por ejemplo AAAA)
+
+Aplicar los algoritmos de Busqueda por fuerza bruta y KMP.
+¿Existe diferencia en el rendimiento de los algoritmos aplicados?

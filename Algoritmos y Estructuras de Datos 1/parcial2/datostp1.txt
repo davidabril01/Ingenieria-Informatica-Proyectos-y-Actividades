@@ -1,0 +1,5 @@
+material idComponente Medicion
+x 150 15
+x 250 50
+z 300 60
+z 250 36 

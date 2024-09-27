@@ -1,0 +1,52 @@
+package main
+import "fmt"
+func carga (Matriz1*[3][3]int, Matriz2*[3][3]int){
+	for a := 0; a < 2; a++ {
+		for i := 0; i < 3; i++ {
+			for e := 0; e < 3; e++ {
+				fmt.Println("Introduzca valor de fila", i, "columna", e, "de la matriz", a+1)
+				if (a==0){
+					fmt.Scanln(&Matriz1[i][e])
+				}else{
+					fmt.Scanln(&Matriz2[i][e])
+				}
+			}
+		}
+	}
+	return
+}
+func negativos (Matriz*[3][3]int)(int){
+	var cont int
+	for i := 0; i < 3; i++ {
+		for e := 0; e < 3; e++ {
+			if(Matriz[i][e]<0){
+				Matriz[i][e]=0;
+				cont++
+			}
+		}
+	}
+	return cont
+}
+func sumDiag (Matriz*[3][3]int)(int){
+    var sum int
+    sum=(Matriz[0][0])+(Matriz[1][1])+(Matriz[2][2])
+    return sum
+}
+func sumMat (Matriz1*[3][3]int, Matriz2*[3][3]int)([3][3]int){
+    var MatrizSum[3][3]int
+    for i := 0; i<3; i++ {
+        for e := 0; e<3; e++ {
+            MatrizSum[i][e]=(Matriz1[i][e])+(Matriz2[i][e])
+        }
+    }
+    return MatrizSum
+}
+func main(){
+	var Matriz1[3][3]int
+	var Matriz2[3][3]int
+	carga(&Matriz1, &Matriz2)
+	fmt.Println(negativos(&Matriz1))
+	fmt.Println(Matriz1)
+	fmt.Println(sumDiag(&Matriz2))
+	fmt.Println(sumMat(&Matriz1, &Matriz2))
+}
